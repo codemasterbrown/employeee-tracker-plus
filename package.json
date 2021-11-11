@@ -1,0 +1,28 @@
+{
+  "name": "employee-tracker-plus",
+  "version": "1.0.0",
+  "description": "A command line application to manage and track company employees.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemasterbrown/employeee-tracker-plus.git"
+  },
+  "author": "Ray Brown",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/codemasterbrown/employeee-tracker-plus/issues"
+  },
+  "homepage": "https://github.com/codemasterbrown/employeee-tracker-plus#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}

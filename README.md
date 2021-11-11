@@ -58,7 +58,7 @@ npm i
 Then, build and seed the database with the files in the [sql folder](./sql/).
 
 ## Screenshots
-https://github.com/codemasterbrown/employeee-tracker-plus/sc1.png
+https://github.com/codemasterbrown/employeee-tracker-plus/blob/main/sc1.png?raw=true
 
 ## Usage
 
